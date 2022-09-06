@@ -18,7 +18,7 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 <img height="50" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">  
 <img height="50" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img height="50" alt="nodejs" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg">
+<img height="50" alt="nodejs" src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png">
 </div>
 
 
