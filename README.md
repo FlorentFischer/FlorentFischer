@@ -22,11 +22,12 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 </div>
 
 
+
 ## Contact 
 <div style="display: inline_block"><br>
 <a href="https://github.com/FlorentFischer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/FlorentFischer" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href="mailto:florent.fischer@unil.ch" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge" target="_blank"></a>
+<a href="(mailto:florent.fischer@unil.ch)" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge" target="_blank"></a>
  </div>
 
 
