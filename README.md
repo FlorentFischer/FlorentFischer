@@ -19,6 +19,7 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 <img height="50" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
 <img height="50" alt="nodejs" src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png">
+<img height="50" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png">
 </div>
 
 ## Upcoming Projects
