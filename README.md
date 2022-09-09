@@ -21,6 +21,7 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 <img height="50" alt="nodejs" src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png">
 </div>
 
+## Upcoming Projects
 
 
 ## Contact 
