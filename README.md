@@ -23,6 +23,8 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 </div>
 
 ## Upcoming Projects
+  
+  Market anomalies trading 
 
 
 ## Contact 
