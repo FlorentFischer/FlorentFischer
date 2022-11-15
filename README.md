@@ -25,7 +25,9 @@ Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Manage
 ## Upcoming Projects
   
   Market anomalies trading
-  Portfolio weights optimization 
+  
+  
+  Traditional portfolio weights optimization 
 
 
 ## Contact 
