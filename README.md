@@ -1,6 +1,5 @@
 # Florent Fischer 
 
-Specialized in Algorithmic Trading, Portfolio Protection and Structured Products  
 
 Graduated in Finance at HEC Lausanne (Switzerland) – **Assets and Risks Management Division**
 
